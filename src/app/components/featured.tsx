@@ -20,7 +20,9 @@ export default function featured() {
               className="rounded-2xl border-b-4 border-sky-600 transform duration-500 hover:scale-105"
             />
 
-            <p className="">First Stream! Join me and lets have fun! #Follow</p>
+            <p className="mt-1">
+              First Stream! Join me and lets have fun! #Follow
+            </p>
             <p className="mt-4 text-slate-400">
               <span className="bg-sky-600/30 rounded-sm">
                 Grand Theft Auto V
@@ -40,7 +42,7 @@ export default function featured() {
               className="rounded-2xl border-b-4 border-sky-600 transform duration-500 hover:scale-105"
             />
 
-            <p className="">Solo, going for 10 wins in a row #Giveaway</p>
+            <p className="mt-1">Solo, going for 10 wins in a row #Giveaway</p>
             <p className="mt-4 text-slate-400">
               <span className="bg-sky-600/30 rounded-sm">Fortnite</span>
             </p>
@@ -58,7 +60,7 @@ export default function featured() {
               className="rounded-2xl border-b-4 border-sky-600 transform duration-500 hover:scale-105"
             />
 
-            <p className="">Playing ranked #tryhard #win</p>
+            <p className="mt-1">Playing ranked #tryhard #win</p>
             <p className="mt-4 text-slate-400">
               <span className="bg-sky-600/30 rounded-sm">Valorant</span>
             </p>
