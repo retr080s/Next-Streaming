@@ -6,7 +6,7 @@ import fortnitePic from "src/assets/fortnite.png";
 import valorantPic from "src/assets/valorant.png";
 import warzonePic from "src/assets/warzone.png";
 import fhPic from "src/assets/fh.jpg";
-import f1Pic from "src/assets/f1.jpg";
+import f1Pic from "src/assets/f1.png";
 
 import { BsPerson } from "react-icons/bs";
 
@@ -25,7 +25,7 @@ export default function categories() {
               height={300}
               className="rounded-2xl transform duration-500 hover:scale-105 border-b-4 border-sky-600"
             />
-            <p className="mt-4">GTA V</p>
+            <p className="mt-4">Grand Theft Auto V</p>
             <p className="flex justify-center  ">
               <BsPerson className="text-white justify-center " />
             </p>
@@ -41,7 +41,7 @@ export default function categories() {
               height={300}
               className="rounded-2xl transform duration-500 hover:scale-105 border-b-4 border-sky-600"
             />
-            <p className="mt-4">COD: MW2</p>
+            <p className="mt-4">Call of Duty: MW2</p>
             <p className="flex justify-center  ">
               <BsPerson className="text-white justify-center " />
             </p>

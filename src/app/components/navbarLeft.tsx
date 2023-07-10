@@ -4,7 +4,7 @@ import retr080sImg from "src/assets/profile/retr080s.png";
 export default function navbarLeft() {
   return (
     <div className="absolute ">
-      <div className="m-0  w-64 h-screen  backdrop-blur-sm bg-sky-800/30   text-sky-600 gap-4 z-39 rounded-br-lg drop-shadow-xl border-b-4 border-sky-600">
+      <div className="m-0  w-64 h-screen  backdrop-blur-sm bg-sky-800/30   text-sky-600 gap-4 z-39  drop-shadow-xl  border-sky-600">
         <p className="text-white font-bold text-center">Recommended </p>
         <ul role="list" className="p-6 divide-y divide-slate-200">
           <li className="flex py-4 first:pt-0 last:pb-0">
