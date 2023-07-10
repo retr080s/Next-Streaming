@@ -1,9 +1,11 @@
 export default function navbarTop() {
   return (
-    <div>
-      <div className="flex flex-row text-green-500 gap-4 justify-end p-2 bg-neutral-800 drop-shadow-lg z-40  ">
-        <button className="">Login</button>
-        <button className="bg-green-500 text-neutral-900 rounded p-2">
+    <div className="sticky top-0 z-40">
+      <div className="  flex flex-row  gap-4 justify-end p-2 backdrop-blur-sm bg-sky-800/30 drop-shadow-xl  rounded-br-lg  ">
+        <button className="text-white hover:text-sky-600 hover:drop-shadow-xl">
+          Login
+        </button>
+        <button className="bg-sky-600 hover:bg-sky-800 hover:text-white text-neutral-800 rounded p-2 hover:drop-shadow-xl">
           Sign up
         </button>
       </div>
