@@ -11,8 +11,10 @@ import Recfortnite from "./components/Recfortnite";
 export default function Home() {
   return (
     <>
-      <NavbarTop />
-      <NavbarLeft />
+      <div className="sticky top-0 z-40">
+        <NavbarTop />
+        <NavbarLeft />
+      </div>
       <Featured />
       <Categories />
       <Recgames />
