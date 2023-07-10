@@ -23,9 +23,9 @@ export default function categories() {
               src={gtaPic}
               width={170}
               height={300}
-              className="rounded-2xl"
+              className="rounded-2xl transform duration-500 hover:scale-105 border-b-4 border-sky-600"
             />
-            <p>GTA V</p>
+            <p className="mt-4">GTA V</p>
             <p className="flex justify-center  ">
               <BsPerson className="text-white justify-center " />
             </p>
@@ -39,9 +39,9 @@ export default function categories() {
               src={codPic}
               width={170}
               height={300}
-              className="rounded-2xl"
+              className="rounded-2xl transform duration-500 hover:scale-105 border-b-4 border-sky-600"
             />
-            <p>COD: MW2</p>
+            <p className="mt-4">COD: MW2</p>
             <p className="flex justify-center  ">
               <BsPerson className="text-white justify-center " />
             </p>
@@ -55,9 +55,9 @@ export default function categories() {
               src={warzonePic}
               width={170}
               height={300}
-              className="rounded-2xl"
+              className="rounded-2xl transform duration-500 hover:scale-105 border-b-4 border-sky-600"
             />
-            <p>COD WARZONE 2</p>
+            <p className="mt-4">COD WARZONE 2</p>
             <p className="flex justify-center  ">
               <BsPerson className="text-white justify-center " />
             </p>
@@ -71,9 +71,9 @@ export default function categories() {
               src={csgoPic}
               width={170}
               height={300}
-              className="rounded-2xl"
+              className="rounded-2xl transform duration-500 hover:scale-105 border-b-4 border-sky-600"
             />
-            <p>CS:GO</p>
+            <p className="mt-4">CS:GO</p>
             <p className="flex justify-center  ">
               <BsPerson className="text-white justify-center " />
             </p>
@@ -87,9 +87,9 @@ export default function categories() {
               src={fortnitePic}
               width={170}
               height={300}
-              className="rounded-2xl"
+              className="rounded-2xl transform duration-500 hover:scale-105 border-b-4 border-sky-600"
             />
-            <p>Fortnite</p>
+            <p className="mt-4">Fortnite</p>
             <p className="flex justify-center  ">
               <BsPerson className="text-white justify-center " />
             </p>
@@ -103,9 +103,9 @@ export default function categories() {
               src={valorantPic}
               width={170}
               height={300}
-              className="rounded-2xl"
+              className="rounded-2xl transform duration-500 hover:scale-105 border-b-4 border-sky-600"
             />
-            <p>Valorant</p>
+            <p className="mt-4">Valorant</p>
             <p className="flex justify-center  ">
               <BsPerson className="text-white justify-center " />
             </p>
@@ -120,9 +120,9 @@ export default function categories() {
               src={fhPic}
               width={170}
               height={300}
-              className="rounded-2xl"
+              className="rounded-2xl transform duration-500 hover:scale-105 border-b-4 border-sky-600"
             />
-            <p>Forza Horizon 5</p>
+            <p className="mt-4">Forza Horizon 5</p>
             <p className="flex justify-center  ">
               <BsPerson className="text-white justify-center " />
             </p>
@@ -135,9 +135,9 @@ export default function categories() {
               src={f1Pic}
               width={170}
               height={300}
-              className="rounded-2xl"
+              className="rounded-2xl transform duration-500 hover:scale-105 border-b-4 border-sky-600"
             />
-            <p>F1</p>
+            <p className="mt-4">F1</p>
             <p className="flex justify-center  ">
               <BsPerson className="text-white justify-center " />
             </p>
