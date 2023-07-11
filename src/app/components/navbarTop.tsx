@@ -19,13 +19,13 @@ export default function navbarTop() {
           </button>
         </Link>
 
-        <Link href="/">
+        <Link href="/login">
           <button className="bg-transparent hover:text-sky-600 text-white rounded p-2 hover:drop-shadow-xl">
             Login
           </button>
         </Link>
 
-        <Link href="/">
+        <Link href="/signup">
           <button className="bg-sky-600 hover:bg-sky-800 hover:text-white text-neutral-800 rounded p-2 hover:drop-shadow-xl">
             Sign up
           </button>
