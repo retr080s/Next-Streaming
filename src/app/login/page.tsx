@@ -23,7 +23,7 @@ export default function page() {
           type="password"
           placeholder="Password"
         />
-        <Link href="/">
+        <Link href="/resetpassword">
           <p className="text-sm m-2 text-slate-400 hover:text-white">
             Forgot password
           </p>
