@@ -24,8 +24,8 @@ export default function page() {
           placeholder="Password"
         />
         <Link href="/resetpassword">
-          <p className="text-sm m-2 text-slate-400 hover:text-white">
-            Forgot password
+          <p className="text-sm m-2 s text-slate-400 hover:text-white">
+            Forgot Password?
           </p>
         </Link>
         <button className="p-2 border border-sky-600 rounded-lg mb-4 focus:outline-none hover:bg-sky-800">

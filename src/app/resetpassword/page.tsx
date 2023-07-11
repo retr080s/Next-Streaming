@@ -27,7 +27,7 @@ export default function page() {
           You can enter either your username or your email which is linked to
           your account. Reset link will be sent to your email.
         </p>
-        <button className="p-2  border border-sky-600 rounded-lg mb-4 focus:outline-none hover:bg-sky-800">
+        <button className="p-2 border border-sky-600 rounded-lg mb-4 focus:outline-none hover:bg-sky-800">
           Reset Password
         </button>
       </div>

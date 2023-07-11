@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function footer() {
   return (
     <div className="mt-12 ">
@@ -10,7 +12,9 @@ export default function footer() {
       <div className="flex flex-row justify-center  mt-16 h-screen gap-4 m-0 bg-black/30 ">
         <p>Policy:</p>
         <ul>
-          <li>-Guidelines</li>
+          <Link href="/guidelines">
+            <li>-Guidelines</li>
+          </Link>
           <li>-Privacy Policy</li>
           <li>-Terms of service</li>
           <li>-Help</li>
