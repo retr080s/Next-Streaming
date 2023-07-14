@@ -33,7 +33,7 @@ export default function page() {
           <MediaCommunitySkin />
         </MediaPlayer>
         <div className="">
-          <div className="m-0  w-64  backdrop-blur-sm bg-sky-800/30   text-sky-600 gap-4 z-39   border-sky-600">
+          <div className="m-0  w-64  backdrop-blur-sm bg-sky-800/30 rounded-tr-md  text-sky-600 gap-4 z-39   border-sky-600">
             <ul role="list" className=" p-6 divide-y divide-slate-200 ">
               <li className="flex py-4 first:pt-0 last:pb-0">
                 <div className="ml-3 overflow-hidden">
@@ -111,7 +111,7 @@ export default function page() {
               </li>
             </ul>
           </div>
-          <textarea className="w-64 h-20"></textarea>
+          <textarea className="w-64 h-20 rounded-br-md"></textarea>
         </div>
       </div>
     </div>
