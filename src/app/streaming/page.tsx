@@ -2,6 +2,8 @@
 
 import NavbarTop from "../components/NavbarTop";
 
+import { BsPerson } from "react-icons/bs";
+
 import "vidstack/styles/defaults.css";
 import "vidstack/styles/community-skin/video.css";
 
@@ -16,6 +18,7 @@ export default function page() {
   return (
     <div>
       <NavbarTop />
+
       <div className="flex justify-center mt-14">
         <MediaPlayer
           autoplay
@@ -32,6 +35,7 @@ export default function page() {
           </MediaOutlet>
           <MediaCommunitySkin />
         </MediaPlayer>
+
         <div className="">
           <div className="m-0  w-64  backdrop-blur-sm bg-sky-800/30 rounded-tr-md  text-sky-600 gap-4 z-39   border-sky-600">
             <ul role="list" className=" p-6 divide-y divide-slate-200 ">
@@ -113,6 +117,16 @@ export default function page() {
           </div>
           <textarea className="w-64 h-20 rounded-br-md"></textarea>
         </div>
+      </div>
+      <div className="flex mt-2 ml-36 flex-col">
+        <h1>First Stream! Join me and lets have fun! #Follow</h1>
+        <p className="mt-4 text-slate-400">
+          <span className="bg-sky-600/30 rounded-sm">Valorant</span>
+        </p>
+        <p className="flex justify-left  ">
+          <BsPerson className="text-white  " />
+        </p>
+        <p className="">2000 Watching</p>
       </div>
     </div>
   );
