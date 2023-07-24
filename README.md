@@ -6,10 +6,10 @@
 
 <h2>Current build 📷</h2>
 
-![Screenshot_1461](https://github.com/retr080s/next-live-streaming-app/assets/84463361/7fac401f-0b01-45cb-b572-cdaaf899062f)
-![Screenshot_1462](https://github.com/retr080s/next-live-streaming-app/assets/84463361/9ce0f620-87dd-489f-9a28-6568705680e0)
-![Screenshot_1463](https://github.com/retr080s/next-live-streaming-app/assets/84463361/14f07d60-ab6c-47e4-97bb-8e8454b239d0)
-![Screenshot_1466](https://github.com/retr080s/next-live-streaming-app/assets/84463361/8a261b25-d11a-475b-9248-64d71d4ad237)
-![Screenshot_1464](https://github.com/retr080s/next-live-streaming-app/assets/84463361/afb16dfc-2507-4eaf-8e36-dc62f6f03608)
-![Screenshot_1465](https://github.com/retr080s/next-live-streaming-app/assets/84463361/7da588b7-badb-4158-b801-d3a45d6997f2)
 
+![Screenshot_1461](https://github.com/retr080s/next-live-streaming-app/assets/84463361/5b8ac10c-7d3e-4d58-9eaf-080d0cb3eefc)
+![Screenshot_1462](https://github.com/retr080s/next-live-streaming-app/assets/84463361/476820c9-1a3b-4813-8a51-9c4a42120dce)
+![Screenshot_1463](https://github.com/retr080s/next-live-streaming-app/assets/84463361/e6420f6a-72bf-4ca9-9aeb-463639100bba)
+![Screenshot_1466](https://github.com/retr080s/next-live-streaming-app/assets/84463361/1e82dc32-83f8-40a4-bae6-5c01a87d994d)
+![Screenshot_1464](https://github.com/retr080s/next-live-streaming-app/assets/84463361/eadb5eb3-6636-4207-b318-49ae9e23820b)
+![Screenshot_1465](https://github.com/retr080s/next-live-streaming-app/assets/84463361/c2cced4b-3f88-4132-a9ac-c530118e163b)
