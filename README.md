@@ -1,4 +1,4 @@
-<h1>Next Streaming App</h1>
+<h1>Next Streaming App 📺</h1>
 
 <p>Built with: React, Next, Typescript, TailwindCSS, React-Icons, Vidstack (custom video player) 🛠 </p>
 
